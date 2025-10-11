@@ -77,12 +77,12 @@ Databases and experimental tools I work with.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipu0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu0&layout=compact&langs_count=6&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=macdipu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macdipu&layout=compact&langs_count=6&theme=dracula" height="160"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=dipu0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=macdipu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ Databases and experimental tools I work with.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu-polygontech&theme=dracula" />
 
 
-<img src="https://raw.githubusercontent.com/dipu0/dipu0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/macdipu/macdipu/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
