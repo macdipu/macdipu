@@ -17,7 +17,7 @@
 - 🔭 Actively building **awesome apps** with Flutter, Django & more.
 - 💬 Ask me about: **C/C++, Java, Android, Flutter, Python, Django, SQL**
 - 📫 Email me at: [c.dipu0@gmail.com](mailto:c.dipu0@gmail.com)
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/dipu0)
+- 👨‍💻 Check out my projects on [GitHub](https://github.com/macdipu)
 
 ---
 
@@ -90,7 +90,7 @@ Databases and experimental tools I work with.
 ## 📊 Contribution Graph
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu0&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macdipu&theme=dracula" />
 
   <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu-polygontech&theme=dracula" />
