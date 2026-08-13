@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipu0&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=macdipu&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="coding-gif" width="400"/>
 </p>
 
 <br>
